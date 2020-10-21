@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "" : {
+      "model": "lem:block/phil_swift_block"
+    }
+  }
+}
